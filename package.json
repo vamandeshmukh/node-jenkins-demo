@@ -1,0 +1,15 @@
+{
+  "name": "jenkins-demo",
+  "version": "1.0.0",
+  "description": "Node Jenkins demo project for Deloitte BLR trainees 12 Dec 2022",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Vaman Deshmukh",
+  "license": "ISC"
+}
