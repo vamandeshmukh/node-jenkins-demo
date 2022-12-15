@@ -1,5 +1,5 @@
 {
-  "name": "jenkins-demo",
+  "name": "node-jenkins-demo",
   "version": "1.0.0",
   "description": "Node Jenkins demo project for Deloitte BLR trainees 12 Dec 2022",
   "main": "index.js",
